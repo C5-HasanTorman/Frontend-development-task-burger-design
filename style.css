@@ -16,6 +16,7 @@ body {
 }
 .container:hover {
   gap: 4%;
+  margin-bottom: 4%;
 }
 header {
   height: 15%;
@@ -52,4 +53,18 @@ footer {
   width: 80%;
   background-color: rgb(168, 135, 92);
   border-radius: 0 0 6rem 6rem;
+}
+
+@media screen and (max-width: 800px) {
+  .container {
+    height: 50vh;
+    width: 40vw;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .container {
+    height: 50vh;
+    width: 50vw;
+  }
 }
