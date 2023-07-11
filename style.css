@@ -32,3 +32,10 @@ header {
   background-color: rgb(100, 184, 114);
   border-radius: 12rem 12rem 12rem 12rem;
 }
+
+.cheese {
+  height: 4%;
+  width: 85%;
+  background-color: rgba(241, 237, 8, 0.747);
+  border-radius: 12rem 12rem 12rem 12rem;
+}
