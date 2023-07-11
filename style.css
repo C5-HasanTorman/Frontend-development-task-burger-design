@@ -1,0 +1,21 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  height: 45vh;
+  width: 30vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+header {
+  height:10%;
+  width: 80%;
+  background-color: rgb(168, 135, 92);
+  border-top-right-radius:50% ;
+  border-top-left-radius: 50%;
+}
