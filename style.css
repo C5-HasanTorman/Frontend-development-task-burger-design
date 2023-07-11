@@ -39,3 +39,9 @@ header {
   background-color: rgba(241, 237, 8, 0.747);
   border-radius: 12rem 12rem 12rem 12rem;
 }
+.meat {
+  height: 8%;
+  width: 85%;
+  background-color: rgba(107, 48, 6, 0.747);
+  border-radius: 12rem 12rem 12rem 12rem;
+}
