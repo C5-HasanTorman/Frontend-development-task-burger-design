@@ -19,20 +19,17 @@ header {
   background-color: rgb(168, 135, 92);
   border-radius: 50% 50% 0 0;
 }
-
 .tomatoe {
   height: 2%;
   width: 80%;
   background-color: rgb(194, 63, 63);
 }
-
 .lettuce {
   height: 5%;
   width: 85%;
   background-color: rgb(100, 184, 114);
   border-radius: 12rem 12rem 12rem 12rem;
 }
-
 .cheese {
   height: 4%;
   width: 85%;
@@ -44,4 +41,11 @@ header {
   width: 85%;
   background-color: rgba(107, 48, 6, 0.747);
   border-radius: 12rem 12rem 12rem 12rem;
+}
+
+footer {
+  height: 13%;
+  width: 80%;
+  background-color: rgb(168, 135, 92);
+  border-radius: 0 0 6rem 6rem;
 }
