@@ -14,15 +14,22 @@ body {
   gap: 1%;
 }
 header {
-  height:10%;
+  height: 10%;
   width: 80%;
   background-color: rgb(168, 135, 92);
-  border-top-right-radius:50% ;
+  border-top-right-radius: 50%;
   border-top-left-radius: 50%;
 }
 
-.tomatoe-1{
-    height: 2%;
-    width: 80%;
-    background-color: rgb(194, 63, 63);
+.tomatoe-1 {
+  height: 2%;
+  width: 80%;
+  background-color: rgb(194, 63, 63);
+}
+
+.lettuce {
+  height: 5%;
+  width: 85%;
+  background-color: rgb(100, 184, 114);
+  border-radius: 12rem 12rem 12rem 12rem;
 }
