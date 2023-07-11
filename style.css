@@ -14,11 +14,10 @@ body {
   gap: 1%;
 }
 header {
-  height: 10%;
+  height: 15%;
   width: 80%;
   background-color: rgb(168, 135, 92);
-  border-top-right-radius: 50%;
-  border-top-left-radius: 50%;
+  border-radius: 50% 50% 0 0;
 }
 
 .tomatoe-1 {
